@@ -1,0 +1,22 @@
+{
+  "name": "json-to-excel-converter",
+  "version": "1.0.0",
+  "description": "通用的JSON转Excel工具，支持处理复杂嵌套结构和时序数据",
+  "main": "json_to_excel.js",
+  "scripts": {
+    "convert": "node json_to_excel.js"
+  },
+  "keywords": [
+    "json",
+    "excel",
+    "converter",
+    "time-series",
+    "nested-json"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
