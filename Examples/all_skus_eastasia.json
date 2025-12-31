@@ -1,0 +1,5294 @@
+[
+  {
+    "Cores": "1",
+    "MaxDataDisks": "2",
+    "MemoryGB": "2",
+    "Name": "Standard_A1_v2"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "16",
+    "Name": "Standard_A2m_v2"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "4",
+    "Name": "Standard_A2_v2"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "32",
+    "Name": "Standard_A4m_v2"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "8",
+    "Name": "Standard_A4_v2"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "64",
+    "Name": "Standard_A8m_v2"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "16",
+    "Name": "Standard_A8_v2"
+  },
+  {
+    "Cores": "12",
+    "MaxDataDisks": "16",
+    "MemoryGB": "48",
+    "Name": "Standard_B12ms"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "32",
+    "Name": "Standard_B16als_v2"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "64",
+    "Name": "Standard_B16as_v2"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "32",
+    "Name": "Standard_B16ls_v2"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "64",
+    "Name": "Standard_B16ms"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "32",
+    "Name": "Standard_B16pls_v2"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "64",
+    "Name": "Standard_B16ps_v2"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "64",
+    "Name": "Standard_B16s_v2"
+  },
+  {
+    "Cores": "1",
+    "MaxDataDisks": "2",
+    "MemoryGB": "0.5",
+    "Name": "Standard_B1ls"
+  },
+  {
+    "Cores": "1",
+    "MaxDataDisks": "2",
+    "MemoryGB": "2",
+    "Name": "Standard_B1ms"
+  },
+  {
+    "Cores": "1",
+    "MaxDataDisks": "2",
+    "MemoryGB": "1",
+    "Name": "Standard_B1s"
+  },
+  {
+    "Cores": "20",
+    "MaxDataDisks": "32",
+    "MemoryGB": "80",
+    "Name": "Standard_B20ms"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "4",
+    "Name": "Standard_B2als_v2"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "8",
+    "Name": "Standard_B2as_v2"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "1",
+    "Name": "Standard_B2ats_v2"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "4",
+    "Name": "Standard_B2ls_v2"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "8",
+    "Name": "Standard_B2ms"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "4",
+    "Name": "Standard_B2pls_v2"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "8",
+    "Name": "Standard_B2ps_v2"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "1",
+    "Name": "Standard_B2pts_v2"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "4",
+    "Name": "Standard_B2s"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "8",
+    "Name": "Standard_B2s_v2"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "1",
+    "Name": "Standard_B2ts_v2"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "64",
+    "Name": "Standard_B32als_v2"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_B32as_v2"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "64",
+    "Name": "Standard_B32ls_v2"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_B32s_v2"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "8",
+    "Name": "Standard_B4als_v2"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "16",
+    "Name": "Standard_B4as_v2"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "8",
+    "Name": "Standard_B4ls_v2"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "16",
+    "Name": "Standard_B4ms"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "8",
+    "Name": "Standard_B4pls_v2"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "16",
+    "Name": "Standard_B4ps_v2"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "16",
+    "Name": "Standard_B4s_v2"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "16",
+    "Name": "Standard_B8als_v2"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "32",
+    "Name": "Standard_B8as_v2"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "16",
+    "Name": "Standard_B8ls_v2"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "32",
+    "Name": "Standard_B8ms"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "16",
+    "Name": "Standard_B8pls_v2"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "32",
+    "Name": "Standard_B8ps_v2"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "32",
+    "Name": "Standard_B8s_v2"
+  },
+  {
+    "Cores": "1",
+    "MaxDataDisks": "4",
+    "MemoryGB": "3.5",
+    "Name": "Standard_D1"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "8",
+    "MemoryGB": "14",
+    "Name": "Standard_D11"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "8",
+    "MemoryGB": "14",
+    "Name": "Standard_D11_v2"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "8",
+    "MemoryGB": "14",
+    "Name": "Standard_D11_v2_Promo"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "16",
+    "MemoryGB": "28",
+    "Name": "Standard_D12"
+  },
+  {
+    "Cores": "128",
+    "MaxDataDisks": "64",
+    "MemoryGB": "512",
+    "Name": "Standard_D128ds_v6"
+  },
+  {
+    "Cores": "128",
+    "MaxDataDisks": "64",
+    "MemoryGB": "256",
+    "Name": "Standard_D128lds_v6"
+  },
+  {
+    "Cores": "128",
+    "MaxDataDisks": "64",
+    "MemoryGB": "256",
+    "Name": "Standard_D128ls_v6"
+  },
+  {
+    "Cores": "128",
+    "MaxDataDisks": "64",
+    "MemoryGB": "512",
+    "Name": "Standard_D128s_v6"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "16",
+    "MemoryGB": "28",
+    "Name": "Standard_D12_v2"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "16",
+    "MemoryGB": "28",
+    "Name": "Standard_D12_v2_Promo"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "32",
+    "MemoryGB": "56",
+    "Name": "Standard_D13"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "32",
+    "MemoryGB": "56",
+    "Name": "Standard_D13_v2"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "32",
+    "MemoryGB": "56",
+    "Name": "Standard_D13_v2_Promo"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "64",
+    "MemoryGB": "112",
+    "Name": "Standard_D14"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "64",
+    "MemoryGB": "112",
+    "Name": "Standard_D14_v2"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "64",
+    "MemoryGB": "112",
+    "Name": "Standard_D14_v2_Promo"
+  },
+  {
+    "Cores": "20",
+    "MaxDataDisks": "64",
+    "MemoryGB": "140",
+    "Name": "Standard_D15_v2"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "64",
+    "Name": "Standard_D16ads_v5"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "64",
+    "Name": "Standard_D16ads_v6"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "32",
+    "Name": "Standard_D16alds_v6"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "32",
+    "Name": "Standard_D16als_v6"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "64",
+    "Name": "Standard_D16as_v4"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "64",
+    "Name": "Standard_D16as_v5"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "64",
+    "Name": "Standard_D16as_v6"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "64",
+    "Name": "Standard_D16a_v4"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "64",
+    "Name": "Standard_D16ds_v4"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "64",
+    "Name": "Standard_D16ds_v5"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "48",
+    "MemoryGB": "64",
+    "Name": "Standard_D16ds_v6"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "64",
+    "Name": "Standard_D16d_v4"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "64",
+    "Name": "Standard_D16d_v5"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "32",
+    "Name": "Standard_D16lds_v5"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "48",
+    "MemoryGB": "32",
+    "Name": "Standard_D16lds_v6"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "32",
+    "Name": "Standard_D16ls_v5"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "48",
+    "MemoryGB": "32",
+    "Name": "Standard_D16ls_v6"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "64",
+    "Name": "Standard_D16pds_v5"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "32",
+    "Name": "Standard_D16plds_v5"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "32",
+    "Name": "Standard_D16pls_v5"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "64",
+    "Name": "Standard_D16ps_v5"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "64",
+    "Name": "Standard_D16s_v3"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "64",
+    "Name": "Standard_D16s_v4"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "64",
+    "Name": "Standard_D16s_v5"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "48",
+    "MemoryGB": "64",
+    "Name": "Standard_D16s_v6"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "64",
+    "Name": "Standard_D16_v3"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "64",
+    "Name": "Standard_D16_v4"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "64",
+    "Name": "Standard_D16_v5"
+  },
+  {
+    "Cores": "192",
+    "MaxDataDisks": "64",
+    "MemoryGB": "768",
+    "Name": "Standard_D192ds_v6"
+  },
+  {
+    "Cores": "192",
+    "MaxDataDisks": "64",
+    "MemoryGB": "768",
+    "Name": "Standard_D192s_v6"
+  },
+  {
+    "Cores": "1",
+    "MaxDataDisks": "4",
+    "MemoryGB": "3.5",
+    "Name": "Standard_D1_v2"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "8",
+    "MemoryGB": "7",
+    "Name": "Standard_D2"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "8",
+    "Name": "Standard_D2ads_v5"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "8",
+    "Name": "Standard_D2ads_v6"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "4",
+    "Name": "Standard_D2alds_v6"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "4",
+    "Name": "Standard_D2als_v6"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "8",
+    "Name": "Standard_D2as_v4"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "8",
+    "Name": "Standard_D2as_v5"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "8",
+    "Name": "Standard_D2as_v6"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "8",
+    "Name": "Standard_D2a_v4"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "8",
+    "Name": "Standard_D2ds_v4"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "8",
+    "Name": "Standard_D2ds_v5"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "8",
+    "MemoryGB": "8",
+    "Name": "Standard_D2ds_v6"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "8",
+    "Name": "Standard_D2d_v4"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "8",
+    "Name": "Standard_D2d_v5"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "4",
+    "Name": "Standard_D2lds_v5"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "8",
+    "MemoryGB": "4",
+    "Name": "Standard_D2lds_v6"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "4",
+    "Name": "Standard_D2ls_v5"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "8",
+    "MemoryGB": "4",
+    "Name": "Standard_D2ls_v6"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "8",
+    "Name": "Standard_D2pds_v5"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "4",
+    "Name": "Standard_D2plds_v5"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "4",
+    "Name": "Standard_D2pls_v5"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "8",
+    "Name": "Standard_D2ps_v5"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "8",
+    "Name": "Standard_D2s_v3"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "8",
+    "Name": "Standard_D2s_v4"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "8",
+    "Name": "Standard_D2s_v5"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "8",
+    "MemoryGB": "8",
+    "Name": "Standard_D2s_v6"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "8",
+    "MemoryGB": "7",
+    "Name": "Standard_D2_v2"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "8",
+    "MemoryGB": "7",
+    "Name": "Standard_D2_v2_Promo"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "8",
+    "Name": "Standard_D2_v3"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "8",
+    "Name": "Standard_D2_v4"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "8",
+    "Name": "Standard_D2_v5"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "16",
+    "MemoryGB": "14",
+    "Name": "Standard_D3"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_D32ads_v5"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_D32ads_v6"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "64",
+    "Name": "Standard_D32alds_v6"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "64",
+    "Name": "Standard_D32als_v6"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_D32as_v4"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_D32as_v5"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_D32as_v6"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_D32a_v4"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_D32ds_v4"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_D32ds_v5"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "64",
+    "MemoryGB": "128",
+    "Name": "Standard_D32ds_v6"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_D32d_v4"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_D32d_v5"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "64",
+    "Name": "Standard_D32lds_v5"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "64",
+    "MemoryGB": "64",
+    "Name": "Standard_D32lds_v6"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "64",
+    "Name": "Standard_D32ls_v5"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "64",
+    "MemoryGB": "64",
+    "Name": "Standard_D32ls_v6"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_D32pds_v5"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "64",
+    "Name": "Standard_D32plds_v5"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "64",
+    "Name": "Standard_D32pls_v5"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_D32ps_v5"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_D32s_v3"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_D32s_v4"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_D32s_v5"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "64",
+    "MemoryGB": "128",
+    "Name": "Standard_D32s_v6"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_D32_v3"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_D32_v4"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_D32_v5"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "16",
+    "MemoryGB": "14",
+    "Name": "Standard_D3_v2"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "16",
+    "MemoryGB": "14",
+    "Name": "Standard_D3_v2_Promo"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "32",
+    "MemoryGB": "28",
+    "Name": "Standard_D4"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "192",
+    "Name": "Standard_D48ads_v5"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "192",
+    "Name": "Standard_D48ads_v6"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "96",
+    "Name": "Standard_D48alds_v6"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "96",
+    "Name": "Standard_D48als_v6"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "192",
+    "Name": "Standard_D48as_v4"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "192",
+    "Name": "Standard_D48as_v5"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "192",
+    "Name": "Standard_D48as_v6"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "192",
+    "Name": "Standard_D48a_v4"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "192",
+    "Name": "Standard_D48ds_v4"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "192",
+    "Name": "Standard_D48ds_v5"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "64",
+    "MemoryGB": "192",
+    "Name": "Standard_D48ds_v6"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "192",
+    "Name": "Standard_D48d_v4"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "192",
+    "Name": "Standard_D48d_v5"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "96",
+    "Name": "Standard_D48lds_v5"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "64",
+    "MemoryGB": "96",
+    "Name": "Standard_D48lds_v6"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "96",
+    "Name": "Standard_D48ls_v5"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "64",
+    "MemoryGB": "96",
+    "Name": "Standard_D48ls_v6"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "192",
+    "Name": "Standard_D48pds_v5"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "96",
+    "Name": "Standard_D48plds_v5"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "96",
+    "Name": "Standard_D48pls_v5"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "192",
+    "Name": "Standard_D48ps_v5"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "192",
+    "Name": "Standard_D48s_v3"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "192",
+    "Name": "Standard_D48s_v4"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "192",
+    "Name": "Standard_D48s_v5"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "64",
+    "MemoryGB": "192",
+    "Name": "Standard_D48s_v6"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "192",
+    "Name": "Standard_D48_v3"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "192",
+    "Name": "Standard_D48_v4"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "192",
+    "Name": "Standard_D48_v5"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "16",
+    "Name": "Standard_D4ads_v5"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "16",
+    "Name": "Standard_D4ads_v6"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "8",
+    "Name": "Standard_D4alds_v6"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "8",
+    "Name": "Standard_D4als_v6"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "16",
+    "Name": "Standard_D4as_v4"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "16",
+    "Name": "Standard_D4as_v5"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "16",
+    "Name": "Standard_D4as_v6"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "16",
+    "Name": "Standard_D4a_v4"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "16",
+    "Name": "Standard_D4ds_v4"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "16",
+    "Name": "Standard_D4ds_v5"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "12",
+    "MemoryGB": "16",
+    "Name": "Standard_D4ds_v6"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "16",
+    "Name": "Standard_D4d_v4"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "16",
+    "Name": "Standard_D4d_v5"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "8",
+    "Name": "Standard_D4lds_v5"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "12",
+    "MemoryGB": "8",
+    "Name": "Standard_D4lds_v6"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "8",
+    "Name": "Standard_D4ls_v5"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "12",
+    "MemoryGB": "8",
+    "Name": "Standard_D4ls_v6"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "16",
+    "Name": "Standard_D4pds_v5"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "8",
+    "Name": "Standard_D4plds_v5"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "8",
+    "Name": "Standard_D4pls_v5"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "16",
+    "Name": "Standard_D4ps_v5"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "16",
+    "Name": "Standard_D4s_v3"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "16",
+    "Name": "Standard_D4s_v4"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "16",
+    "Name": "Standard_D4s_v5"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "12",
+    "MemoryGB": "16",
+    "Name": "Standard_D4s_v6"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "32",
+    "MemoryGB": "28",
+    "Name": "Standard_D4_v2"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "32",
+    "MemoryGB": "28",
+    "Name": "Standard_D4_v2_Promo"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "16",
+    "Name": "Standard_D4_v3"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "16",
+    "Name": "Standard_D4_v4"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "16",
+    "Name": "Standard_D4_v5"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "64",
+    "MemoryGB": "56",
+    "Name": "Standard_D5_v2"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "64",
+    "MemoryGB": "56",
+    "Name": "Standard_D5_v2_Promo"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_D64ads_v5"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_D64ads_v6"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_D64alds_v6"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_D64als_v6"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_D64as_v4"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_D64as_v5"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_D64as_v6"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_D64a_v4"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_D64ds_v4"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_D64ds_v5"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "64",
+    "MemoryGB": "256",
+    "Name": "Standard_D64ds_v6"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_D64d_v4"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_D64d_v5"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_D64lds_v5"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "64",
+    "MemoryGB": "128",
+    "Name": "Standard_D64lds_v6"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_D64ls_v5"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "64",
+    "MemoryGB": "128",
+    "Name": "Standard_D64ls_v6"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "208",
+    "Name": "Standard_D64pds_v5"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_D64plds_v5"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_D64pls_v5"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "208",
+    "Name": "Standard_D64ps_v5"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_D64s_v3"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_D64s_v4"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_D64s_v5"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "64",
+    "MemoryGB": "256",
+    "Name": "Standard_D64s_v6"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_D64_v3"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_D64_v4"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_D64_v5"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "32",
+    "Name": "Standard_D8ads_v5"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "32",
+    "Name": "Standard_D8ads_v6"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "16",
+    "Name": "Standard_D8alds_v6"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "16",
+    "Name": "Standard_D8als_v6"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "32",
+    "Name": "Standard_D8as_v4"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "32",
+    "Name": "Standard_D8as_v5"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "32",
+    "Name": "Standard_D8as_v6"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "32",
+    "Name": "Standard_D8a_v4"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "32",
+    "Name": "Standard_D8ds_v4"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "32",
+    "Name": "Standard_D8ds_v5"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "24",
+    "MemoryGB": "32",
+    "Name": "Standard_D8ds_v6"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "32",
+    "Name": "Standard_D8d_v4"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "32",
+    "Name": "Standard_D8d_v5"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "16",
+    "Name": "Standard_D8lds_v5"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "24",
+    "MemoryGB": "16",
+    "Name": "Standard_D8lds_v6"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "16",
+    "Name": "Standard_D8ls_v5"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "24",
+    "MemoryGB": "16",
+    "Name": "Standard_D8ls_v6"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "32",
+    "Name": "Standard_D8pds_v5"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "16",
+    "Name": "Standard_D8plds_v5"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "16",
+    "Name": "Standard_D8pls_v5"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "32",
+    "Name": "Standard_D8ps_v5"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "32",
+    "Name": "Standard_D8s_v3"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "32",
+    "Name": "Standard_D8s_v4"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "32",
+    "Name": "Standard_D8s_v5"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "24",
+    "MemoryGB": "32",
+    "Name": "Standard_D8s_v6"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "32",
+    "Name": "Standard_D8_v3"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "32",
+    "Name": "Standard_D8_v4"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "32",
+    "Name": "Standard_D8_v5"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "384",
+    "Name": "Standard_D96ads_v5"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "384",
+    "Name": "Standard_D96ads_v6"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "192",
+    "Name": "Standard_D96alds_v6"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "192",
+    "Name": "Standard_D96als_v6"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "384",
+    "Name": "Standard_D96as_v4"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "384",
+    "Name": "Standard_D96as_v5"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "384",
+    "Name": "Standard_D96as_v6"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "384",
+    "Name": "Standard_D96a_v4"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "384",
+    "Name": "Standard_D96ds_v5"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "64",
+    "MemoryGB": "384",
+    "Name": "Standard_D96ds_v6"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "384",
+    "Name": "Standard_D96d_v5"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "192",
+    "Name": "Standard_D96lds_v5"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "64",
+    "MemoryGB": "192",
+    "Name": "Standard_D96lds_v6"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "192",
+    "Name": "Standard_D96ls_v5"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "64",
+    "MemoryGB": "192",
+    "Name": "Standard_D96ls_v6"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "384",
+    "Name": "Standard_D96s_v5"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "64",
+    "MemoryGB": "384",
+    "Name": "Standard_D96s_v6"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "384",
+    "Name": "Standard_D96_v5"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "64",
+    "Name": "Standard_DC16ads_cc_v5"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "64",
+    "Name": "Standard_DC16ads_v5"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "64",
+    "Name": "Standard_DC16as_cc_v5"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "64",
+    "Name": "Standard_DC16as_v5"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "8",
+    "Name": "Standard_DC2ads_v5"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "8",
+    "Name": "Standard_DC2as_v5"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_DC32ads_cc_v5"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_DC32ads_v5"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_DC32as_cc_v5"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_DC32as_v5"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "192",
+    "Name": "Standard_DC48ads_cc_v5"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "192",
+    "Name": "Standard_DC48ads_v5"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "192",
+    "Name": "Standard_DC48as_cc_v5"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "192",
+    "Name": "Standard_DC48as_v5"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "16",
+    "Name": "Standard_DC4ads_cc_v5"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "16",
+    "Name": "Standard_DC4ads_v5"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "16",
+    "Name": "Standard_DC4as_cc_v5"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "16",
+    "Name": "Standard_DC4as_v5"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_DC64ads_cc_v5"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_DC64ads_v5"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_DC64as_cc_v5"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_DC64as_v5"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "32",
+    "Name": "Standard_DC8ads_cc_v5"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "32",
+    "Name": "Standard_DC8ads_v5"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "32",
+    "Name": "Standard_DC8as_cc_v5"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "32",
+    "Name": "Standard_DC8as_v5"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "384",
+    "Name": "Standard_DC96ads_cc_v5"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "384",
+    "Name": "Standard_DC96ads_v5"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "384",
+    "Name": "Standard_DC96as_cc_v5"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "384",
+    "Name": "Standard_DC96as_v5"
+  },
+  {
+    "Cores": "1",
+    "MaxDataDisks": "4",
+    "MemoryGB": "3.5",
+    "Name": "Standard_DS1"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "8",
+    "MemoryGB": "14",
+    "Name": "Standard_DS11"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "8",
+    "MemoryGB": "14",
+    "Name": "Standard_DS11-1_v2"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "8",
+    "MemoryGB": "14",
+    "Name": "Standard_DS11_v2"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "8",
+    "MemoryGB": "14",
+    "Name": "Standard_DS11_v2_Promo"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "16",
+    "MemoryGB": "28",
+    "Name": "Standard_DS12"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "16",
+    "MemoryGB": "28",
+    "Name": "Standard_DS12-1_v2"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "16",
+    "MemoryGB": "28",
+    "Name": "Standard_DS12-2_v2"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "16",
+    "MemoryGB": "28",
+    "Name": "Standard_DS12_v2"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "16",
+    "MemoryGB": "28",
+    "Name": "Standard_DS12_v2_Promo"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "32",
+    "MemoryGB": "56",
+    "Name": "Standard_DS13"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "32",
+    "MemoryGB": "56",
+    "Name": "Standard_DS13-2_v2"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "32",
+    "MemoryGB": "56",
+    "Name": "Standard_DS13-4_v2"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "32",
+    "MemoryGB": "56",
+    "Name": "Standard_DS13_v2"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "32",
+    "MemoryGB": "56",
+    "Name": "Standard_DS13_v2_Promo"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "64",
+    "MemoryGB": "112",
+    "Name": "Standard_DS14"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "64",
+    "MemoryGB": "112",
+    "Name": "Standard_DS14-4_v2"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "64",
+    "MemoryGB": "112",
+    "Name": "Standard_DS14-8_v2"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "64",
+    "MemoryGB": "112",
+    "Name": "Standard_DS14_v2"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "64",
+    "MemoryGB": "112",
+    "Name": "Standard_DS14_v2_Promo"
+  },
+  {
+    "Cores": "20",
+    "MaxDataDisks": "64",
+    "MemoryGB": "140",
+    "Name": "Standard_DS15_v2"
+  },
+  {
+    "Cores": "1",
+    "MaxDataDisks": "4",
+    "MemoryGB": "3.5",
+    "Name": "Standard_DS1_v2"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "8",
+    "MemoryGB": "7",
+    "Name": "Standard_DS2"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "8",
+    "MemoryGB": "7",
+    "Name": "Standard_DS2_v2"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "8",
+    "MemoryGB": "7",
+    "Name": "Standard_DS2_v2_Promo"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "16",
+    "MemoryGB": "14",
+    "Name": "Standard_DS3"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "16",
+    "MemoryGB": "14",
+    "Name": "Standard_DS3_v2"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "16",
+    "MemoryGB": "14",
+    "Name": "Standard_DS3_v2_Promo"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "32",
+    "MemoryGB": "28",
+    "Name": "Standard_DS4"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "32",
+    "MemoryGB": "28",
+    "Name": "Standard_DS4_v2"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "32",
+    "MemoryGB": "28",
+    "Name": "Standard_DS4_v2_Promo"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "64",
+    "MemoryGB": "56",
+    "Name": "Standard_DS5_v2"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "64",
+    "MemoryGB": "56",
+    "Name": "Standard_DS5_v2_Promo"
+  },
+  {
+    "Cores": "104",
+    "MaxDataDisks": "64",
+    "MemoryGB": "672",
+    "Name": "Standard_E104ids_v5"
+  },
+  {
+    "Cores": "104",
+    "MaxDataDisks": "64",
+    "MemoryGB": "672",
+    "Name": "Standard_E104id_v5"
+  },
+  {
+    "Cores": "104",
+    "MaxDataDisks": "64",
+    "MemoryGB": "672",
+    "Name": "Standard_E104is_v5"
+  },
+  {
+    "Cores": "104",
+    "MaxDataDisks": "64",
+    "MemoryGB": "672",
+    "Name": "Standard_E104i_v5"
+  },
+  {
+    "Cores": "112",
+    "MaxDataDisks": "64",
+    "MemoryGB": "672",
+    "Name": "Standard_E112iads_v5"
+  },
+  {
+    "Cores": "112",
+    "MaxDataDisks": "64",
+    "MemoryGB": "672",
+    "Name": "Standard_E112ias_v5"
+  },
+  {
+    "Cores": "112",
+    "MaxDataDisks": "64",
+    "MemoryGB": "672",
+    "Name": "Standard_E112ibds_v5"
+  },
+  {
+    "Cores": "112",
+    "MaxDataDisks": "64",
+    "MemoryGB": "672",
+    "Name": "Standard_E112ibs_v5"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_E16-4ads_v5"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_E16-4as_v4"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_E16-4as_v5"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_E16-4ds_v4"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_E16-4ds_v5"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "48",
+    "MemoryGB": "128",
+    "Name": "Standard_E16-4ds_v6"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_E16-4s_v3"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_E16-4s_v4"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_E16-4s_v5"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "48",
+    "MemoryGB": "128",
+    "Name": "Standard_E16-4s_v6"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_E16-8ads_v5"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_E16-8as_v4"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_E16-8as_v5"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_E16-8ds_v4"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_E16-8ds_v5"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "48",
+    "MemoryGB": "128",
+    "Name": "Standard_E16-8ds_v6"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_E16-8s_v3"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_E16-8s_v4"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_E16-8s_v5"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "48",
+    "MemoryGB": "128",
+    "Name": "Standard_E16-8s_v6"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_E16ads_v5"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_E16ads_v6"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_E16as_v4"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_E16as_v5"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_E16as_v6"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_E16a_v4"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_E16bds_v5"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_E16bs_v5"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_E16ds_v4"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_E16ds_v5"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "48",
+    "MemoryGB": "128",
+    "Name": "Standard_E16ds_v6"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_E16d_v4"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_E16d_v5"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_E16pds_v5"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_E16ps_v5"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_E16s_v3"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_E16s_v4"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_E16s_v5"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "48",
+    "MemoryGB": "128",
+    "Name": "Standard_E16s_v6"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_E16_v3"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_E16_v4"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_E16_v5"
+  },
+  {
+    "Cores": "20",
+    "MaxDataDisks": "32",
+    "MemoryGB": "160",
+    "Name": "Standard_E20ads_v5"
+  },
+  {
+    "Cores": "20",
+    "MaxDataDisks": "32",
+    "MemoryGB": "160",
+    "Name": "Standard_E20ads_v6"
+  },
+  {
+    "Cores": "20",
+    "MaxDataDisks": "32",
+    "MemoryGB": "160",
+    "Name": "Standard_E20as_v4"
+  },
+  {
+    "Cores": "20",
+    "MaxDataDisks": "32",
+    "MemoryGB": "160",
+    "Name": "Standard_E20as_v5"
+  },
+  {
+    "Cores": "20",
+    "MaxDataDisks": "32",
+    "MemoryGB": "160",
+    "Name": "Standard_E20as_v6"
+  },
+  {
+    "Cores": "20",
+    "MaxDataDisks": "32",
+    "MemoryGB": "160",
+    "Name": "Standard_E20a_v4"
+  },
+  {
+    "Cores": "20",
+    "MaxDataDisks": "32",
+    "MemoryGB": "160",
+    "Name": "Standard_E20ds_v4"
+  },
+  {
+    "Cores": "20",
+    "MaxDataDisks": "32",
+    "MemoryGB": "160",
+    "Name": "Standard_E20ds_v5"
+  },
+  {
+    "Cores": "20",
+    "MaxDataDisks": "48",
+    "MemoryGB": "160",
+    "Name": "Standard_E20ds_v6"
+  },
+  {
+    "Cores": "20",
+    "MaxDataDisks": "32",
+    "MemoryGB": "160",
+    "Name": "Standard_E20d_v4"
+  },
+  {
+    "Cores": "20",
+    "MaxDataDisks": "32",
+    "MemoryGB": "160",
+    "Name": "Standard_E20d_v5"
+  },
+  {
+    "Cores": "20",
+    "MaxDataDisks": "32",
+    "MemoryGB": "160",
+    "Name": "Standard_E20pds_v5"
+  },
+  {
+    "Cores": "20",
+    "MaxDataDisks": "32",
+    "MemoryGB": "160",
+    "Name": "Standard_E20ps_v5"
+  },
+  {
+    "Cores": "20",
+    "MaxDataDisks": "32",
+    "MemoryGB": "160",
+    "Name": "Standard_E20s_v3"
+  },
+  {
+    "Cores": "20",
+    "MaxDataDisks": "32",
+    "MemoryGB": "160",
+    "Name": "Standard_E20s_v4"
+  },
+  {
+    "Cores": "20",
+    "MaxDataDisks": "32",
+    "MemoryGB": "160",
+    "Name": "Standard_E20s_v5"
+  },
+  {
+    "Cores": "20",
+    "MaxDataDisks": "48",
+    "MemoryGB": "160",
+    "Name": "Standard_E20s_v6"
+  },
+  {
+    "Cores": "20",
+    "MaxDataDisks": "32",
+    "MemoryGB": "160",
+    "Name": "Standard_E20_v3"
+  },
+  {
+    "Cores": "20",
+    "MaxDataDisks": "32",
+    "MemoryGB": "160",
+    "Name": "Standard_E20_v4"
+  },
+  {
+    "Cores": "20",
+    "MaxDataDisks": "32",
+    "MemoryGB": "160",
+    "Name": "Standard_E20_v5"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "16",
+    "Name": "Standard_E2ads_v5"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "16",
+    "Name": "Standard_E2ads_v6"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "16",
+    "Name": "Standard_E2as_v4"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "16",
+    "Name": "Standard_E2as_v5"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "16",
+    "Name": "Standard_E2as_v6"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "16",
+    "Name": "Standard_E2a_v4"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "16",
+    "Name": "Standard_E2bds_v5"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "16",
+    "Name": "Standard_E2bs_v5"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "16",
+    "Name": "Standard_E2ds_v4"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "16",
+    "Name": "Standard_E2ds_v5"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "8",
+    "MemoryGB": "16",
+    "Name": "Standard_E2ds_v6"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "16",
+    "Name": "Standard_E2d_v4"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "16",
+    "Name": "Standard_E2d_v5"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "16",
+    "Name": "Standard_E2pds_v5"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "16",
+    "Name": "Standard_E2ps_v5"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "16",
+    "Name": "Standard_E2s_v3"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "16",
+    "Name": "Standard_E2s_v4"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "16",
+    "Name": "Standard_E2s_v5"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "8",
+    "MemoryGB": "16",
+    "Name": "Standard_E2s_v6"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "16",
+    "Name": "Standard_E2_v3"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "16",
+    "Name": "Standard_E2_v4"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "16",
+    "Name": "Standard_E2_v5"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_E32-16ads_v5"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_E32-16as_v4"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_E32-16as_v5"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_E32-16ds_v4"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_E32-16ds_v5"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "64",
+    "MemoryGB": "256",
+    "Name": "Standard_E32-16ds_v6"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_E32-16s_v3"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_E32-16s_v4"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_E32-16s_v5"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "64",
+    "MemoryGB": "256",
+    "Name": "Standard_E32-16s_v6"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_E32-8ads_v5"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_E32-8as_v4"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_E32-8as_v5"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_E32-8ds_v4"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_E32-8ds_v5"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "64",
+    "MemoryGB": "256",
+    "Name": "Standard_E32-8ds_v6"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_E32-8s_v3"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_E32-8s_v4"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_E32-8s_v5"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "64",
+    "MemoryGB": "256",
+    "Name": "Standard_E32-8s_v6"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_E32ads_v5"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_E32ads_v6"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_E32as_v4"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_E32as_v5"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_E32as_v6"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_E32a_v4"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_E32bds_v5"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_E32bs_v5"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_E32ds_v4"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_E32ds_v5"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "64",
+    "MemoryGB": "256",
+    "Name": "Standard_E32ds_v6"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_E32d_v4"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_E32d_v5"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "208",
+    "Name": "Standard_E32pds_v5"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "208",
+    "Name": "Standard_E32ps_v5"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_E32s_v3"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_E32s_v4"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_E32s_v5"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "64",
+    "MemoryGB": "256",
+    "Name": "Standard_E32s_v6"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_E32_v3"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_E32_v4"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_E32_v5"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "32",
+    "Name": "Standard_E4-2ads_v5"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "32",
+    "Name": "Standard_E4-2as_v4"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "32",
+    "Name": "Standard_E4-2as_v5"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "32",
+    "Name": "Standard_E4-2ds_v4"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "32",
+    "Name": "Standard_E4-2ds_v5"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "12",
+    "MemoryGB": "32",
+    "Name": "Standard_E4-2ds_v6"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "32",
+    "Name": "Standard_E4-2s_v3"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "32",
+    "Name": "Standard_E4-2s_v4"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "32",
+    "Name": "Standard_E4-2s_v5"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "12",
+    "MemoryGB": "32",
+    "Name": "Standard_E4-2s_v6"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "384",
+    "Name": "Standard_E48ads_v5"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "384",
+    "Name": "Standard_E48ads_v6"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "384",
+    "Name": "Standard_E48as_v4"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "384",
+    "Name": "Standard_E48as_v5"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "384",
+    "Name": "Standard_E48as_v6"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "384",
+    "Name": "Standard_E48a_v4"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "384",
+    "Name": "Standard_E48bds_v5"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "384",
+    "Name": "Standard_E48bs_v5"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "384",
+    "Name": "Standard_E48ds_v4"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "384",
+    "Name": "Standard_E48ds_v5"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "64",
+    "MemoryGB": "384",
+    "Name": "Standard_E48ds_v6"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "384",
+    "Name": "Standard_E48d_v4"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "384",
+    "Name": "Standard_E48d_v5"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "384",
+    "Name": "Standard_E48s_v3"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "384",
+    "Name": "Standard_E48s_v4"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "384",
+    "Name": "Standard_E48s_v5"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "64",
+    "MemoryGB": "384",
+    "Name": "Standard_E48s_v6"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "384",
+    "Name": "Standard_E48_v3"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "384",
+    "Name": "Standard_E48_v4"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "384",
+    "Name": "Standard_E48_v5"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "32",
+    "Name": "Standard_E4ads_v5"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "32",
+    "Name": "Standard_E4ads_v6"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "32",
+    "Name": "Standard_E4as_v4"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "32",
+    "Name": "Standard_E4as_v5"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "32",
+    "Name": "Standard_E4as_v6"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "32",
+    "Name": "Standard_E4a_v4"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "32",
+    "Name": "Standard_E4bds_v5"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "32",
+    "Name": "Standard_E4bs_v5"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "32",
+    "Name": "Standard_E4ds_v4"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "32",
+    "Name": "Standard_E4ds_v5"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "12",
+    "MemoryGB": "32",
+    "Name": "Standard_E4ds_v6"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "32",
+    "Name": "Standard_E4d_v4"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "32",
+    "Name": "Standard_E4d_v5"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "32",
+    "Name": "Standard_E4pds_v5"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "32",
+    "Name": "Standard_E4ps_v5"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "32",
+    "Name": "Standard_E4s_v3"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "32",
+    "Name": "Standard_E4s_v4"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "32",
+    "Name": "Standard_E4s_v5"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "12",
+    "MemoryGB": "32",
+    "Name": "Standard_E4s_v6"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "32",
+    "Name": "Standard_E4_v3"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "32",
+    "Name": "Standard_E4_v4"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "32",
+    "Name": "Standard_E4_v5"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "512",
+    "Name": "Standard_E64-16ads_v5"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "512",
+    "Name": "Standard_E64-16as_v4"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "512",
+    "Name": "Standard_E64-16as_v5"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "504",
+    "Name": "Standard_E64-16ds_v4"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "512",
+    "Name": "Standard_E64-16ds_v5"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "64",
+    "MemoryGB": "512",
+    "Name": "Standard_E64-16ds_v6"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "432",
+    "Name": "Standard_E64-16s_v3"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "504",
+    "Name": "Standard_E64-16s_v4"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "512",
+    "Name": "Standard_E64-16s_v5"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "64",
+    "MemoryGB": "512",
+    "Name": "Standard_E64-16s_v6"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "512",
+    "Name": "Standard_E64-32ads_v5"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "512",
+    "Name": "Standard_E64-32as_v4"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "512",
+    "Name": "Standard_E64-32as_v5"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "504",
+    "Name": "Standard_E64-32ds_v4"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "512",
+    "Name": "Standard_E64-32ds_v5"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "64",
+    "MemoryGB": "512",
+    "Name": "Standard_E64-32ds_v6"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "432",
+    "Name": "Standard_E64-32s_v3"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "504",
+    "Name": "Standard_E64-32s_v4"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "512",
+    "Name": "Standard_E64-32s_v5"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "64",
+    "MemoryGB": "512",
+    "Name": "Standard_E64-32s_v6"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "512",
+    "Name": "Standard_E64ads_v5"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "512",
+    "Name": "Standard_E64ads_v6"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "512",
+    "Name": "Standard_E64as_v4"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "512",
+    "Name": "Standard_E64as_v5"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "512",
+    "Name": "Standard_E64as_v6"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "512",
+    "Name": "Standard_E64a_v4"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "512",
+    "Name": "Standard_E64bds_v5"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "512",
+    "Name": "Standard_E64bs_v5"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "504",
+    "Name": "Standard_E64ds_v4"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "512",
+    "Name": "Standard_E64ds_v5"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "64",
+    "MemoryGB": "512",
+    "Name": "Standard_E64ds_v6"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "504",
+    "Name": "Standard_E64d_v4"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "512",
+    "Name": "Standard_E64d_v5"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "432",
+    "Name": "Standard_E64is_v3"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "432",
+    "Name": "Standard_E64i_v3"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "432",
+    "Name": "Standard_E64s_v3"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "504",
+    "Name": "Standard_E64s_v4"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "512",
+    "Name": "Standard_E64s_v5"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "64",
+    "MemoryGB": "512",
+    "Name": "Standard_E64s_v6"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "432",
+    "Name": "Standard_E64_v3"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "504",
+    "Name": "Standard_E64_v4"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "512",
+    "Name": "Standard_E64_v5"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "64",
+    "Name": "Standard_E8-2ads_v5"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "64",
+    "Name": "Standard_E8-2as_v4"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "64",
+    "Name": "Standard_E8-2as_v5"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "64",
+    "Name": "Standard_E8-2ds_v4"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "64",
+    "Name": "Standard_E8-2ds_v5"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "24",
+    "MemoryGB": "64",
+    "Name": "Standard_E8-2ds_v6"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "64",
+    "Name": "Standard_E8-2s_v3"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "64",
+    "Name": "Standard_E8-2s_v4"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "64",
+    "Name": "Standard_E8-2s_v5"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "24",
+    "MemoryGB": "64",
+    "Name": "Standard_E8-2s_v6"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "64",
+    "Name": "Standard_E8-4ads_v5"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "64",
+    "Name": "Standard_E8-4as_v4"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "64",
+    "Name": "Standard_E8-4as_v5"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "64",
+    "Name": "Standard_E8-4ds_v4"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "32",
+    "MemoryGB": "64",
+    "Name": "Standard_E8-4ds_v5"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "24",
+    "MemoryGB": "64",
+    "Name": "Standard_E8-4ds_v6"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "64",
+    "Name": "Standard_E8-4s_v3"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "64",
+    "Name": "Standard_E8-4s_v4"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "32",
+    "MemoryGB": "64",
+    "Name": "Standard_E8-4s_v5"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "24",
+    "MemoryGB": "64",
+    "Name": "Standard_E8-4s_v6"
+  },
+  {
+    "Cores": "80",
+    "MaxDataDisks": "64",
+    "MemoryGB": "504",
+    "Name": "Standard_E80ids_v4"
+  },
+  {
+    "Cores": "80",
+    "MaxDataDisks": "64",
+    "MemoryGB": "504",
+    "Name": "Standard_E80is_v4"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "64",
+    "Name": "Standard_E8ads_v5"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "64",
+    "Name": "Standard_E8ads_v6"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "64",
+    "Name": "Standard_E8as_v4"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "64",
+    "Name": "Standard_E8as_v5"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "64",
+    "Name": "Standard_E8as_v6"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "64",
+    "Name": "Standard_E8a_v4"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "64",
+    "Name": "Standard_E8bds_v5"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "64",
+    "Name": "Standard_E8bs_v5"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "64",
+    "Name": "Standard_E8ds_v4"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "64",
+    "Name": "Standard_E8ds_v5"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "24",
+    "MemoryGB": "64",
+    "Name": "Standard_E8ds_v6"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "64",
+    "Name": "Standard_E8d_v4"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "64",
+    "Name": "Standard_E8d_v5"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "64",
+    "Name": "Standard_E8pds_v5"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "64",
+    "Name": "Standard_E8ps_v5"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "64",
+    "Name": "Standard_E8s_v3"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "64",
+    "Name": "Standard_E8s_v4"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "64",
+    "Name": "Standard_E8s_v5"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "24",
+    "MemoryGB": "64",
+    "Name": "Standard_E8s_v6"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "64",
+    "Name": "Standard_E8_v3"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "64",
+    "Name": "Standard_E8_v4"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "64",
+    "Name": "Standard_E8_v5"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "672",
+    "Name": "Standard_E96-24ads_v5"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "672",
+    "Name": "Standard_E96-24ads_v6"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "672",
+    "Name": "Standard_E96-24as_v4"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "672",
+    "Name": "Standard_E96-24as_v5"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "672",
+    "Name": "Standard_E96-24ds_v5"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "64",
+    "MemoryGB": "768",
+    "Name": "Standard_E96-24ds_v6"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "672",
+    "Name": "Standard_E96-24s_v5"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "64",
+    "MemoryGB": "768",
+    "Name": "Standard_E96-24s_v6"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "672",
+    "Name": "Standard_E96-48ads_v5"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "672",
+    "Name": "Standard_E96-48ads_v6"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "672",
+    "Name": "Standard_E96-48as_v4"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "672",
+    "Name": "Standard_E96-48as_v5"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "672",
+    "Name": "Standard_E96-48ds_v5"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "64",
+    "MemoryGB": "768",
+    "Name": "Standard_E96-48ds_v6"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "672",
+    "Name": "Standard_E96-48s_v5"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "64",
+    "MemoryGB": "768",
+    "Name": "Standard_E96-48s_v6"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "672",
+    "Name": "Standard_E96ads_v5"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "672",
+    "Name": "Standard_E96ads_v6"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "672",
+    "Name": "Standard_E96as_v4"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "672",
+    "Name": "Standard_E96as_v5"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "672",
+    "Name": "Standard_E96as_v6"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "672",
+    "Name": "Standard_E96a_v4"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "672",
+    "Name": "Standard_E96bds_v5"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "672",
+    "Name": "Standard_E96bs_v5"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "672",
+    "Name": "Standard_E96ds_v5"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "64",
+    "MemoryGB": "768",
+    "Name": "Standard_E96ds_v6"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "672",
+    "Name": "Standard_E96d_v5"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "672",
+    "Name": "Standard_E96ias_v4"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "672",
+    "Name": "Standard_E96s_v5"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "64",
+    "MemoryGB": "768",
+    "Name": "Standard_E96s_v6"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "672",
+    "Name": "Standard_E96_v5"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_EC16ads_cc_v5"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_EC16ads_v5"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_EC16as_cc_v5"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_EC16as_v5"
+  },
+  {
+    "Cores": "20",
+    "MaxDataDisks": "32",
+    "MemoryGB": "160",
+    "Name": "Standard_EC20ads_cc_v5"
+  },
+  {
+    "Cores": "20",
+    "MaxDataDisks": "32",
+    "MemoryGB": "160",
+    "Name": "Standard_EC20ads_v5"
+  },
+  {
+    "Cores": "20",
+    "MaxDataDisks": "32",
+    "MemoryGB": "160",
+    "Name": "Standard_EC20as_cc_v5"
+  },
+  {
+    "Cores": "20",
+    "MaxDataDisks": "32",
+    "MemoryGB": "160",
+    "Name": "Standard_EC20as_v5"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "16",
+    "Name": "Standard_EC2ads_v5"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "16",
+    "Name": "Standard_EC2as_v5"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "192",
+    "Name": "Standard_EC32ads_cc_v5"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "192",
+    "Name": "Standard_EC32ads_v5"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "192",
+    "Name": "Standard_EC32as_cc_v5"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "192",
+    "Name": "Standard_EC32as_v5"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "384",
+    "Name": "Standard_EC48ads_cc_v5"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "384",
+    "Name": "Standard_EC48ads_v5"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "384",
+    "Name": "Standard_EC48as_cc_v5"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "384",
+    "Name": "Standard_EC48as_v5"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "32",
+    "Name": "Standard_EC4ads_cc_v5"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "32",
+    "Name": "Standard_EC4ads_v5"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "32",
+    "Name": "Standard_EC4as_cc_v5"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "32",
+    "Name": "Standard_EC4as_v5"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "512",
+    "Name": "Standard_EC64ads_cc_v5"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "512",
+    "Name": "Standard_EC64ads_v5"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "512",
+    "Name": "Standard_EC64as_cc_v5"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "512",
+    "Name": "Standard_EC64as_v5"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "64",
+    "Name": "Standard_EC8ads_cc_v5"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "64",
+    "Name": "Standard_EC8ads_v5"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "64",
+    "Name": "Standard_EC8as_cc_v5"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "64",
+    "Name": "Standard_EC8as_v5"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "672",
+    "Name": "Standard_EC96ads_cc_v5"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "672",
+    "Name": "Standard_EC96ads_v5"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "672",
+    "Name": "Standard_EC96as_cc_v5"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "672",
+    "Name": "Standard_EC96as_v5"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "672",
+    "Name": "Standard_EC96iads_v5"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "672",
+    "Name": "Standard_EC96ias_v5"
+  },
+  {
+    "Cores": "1",
+    "MaxDataDisks": "4",
+    "MemoryGB": "2",
+    "Name": "Standard_F1"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "64",
+    "MemoryGB": "32",
+    "Name": "Standard_F16"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "32",
+    "Name": "Standard_F16als_v6"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_F16ams_v6"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "64",
+    "Name": "Standard_F16as_v6"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "64",
+    "MemoryGB": "32",
+    "Name": "Standard_F16s"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "32",
+    "Name": "Standard_F16s_v2"
+  },
+  {
+    "Cores": "1",
+    "MaxDataDisks": "4",
+    "MemoryGB": "2",
+    "Name": "Standard_F1s"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "8",
+    "MemoryGB": "4",
+    "Name": "Standard_F2"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "4",
+    "Name": "Standard_F2als_v6"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "16",
+    "Name": "Standard_F2ams_v6"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "8",
+    "Name": "Standard_F2as_v6"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "8",
+    "MemoryGB": "4",
+    "Name": "Standard_F2s"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "4",
+    "Name": "Standard_F2s_v2"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "64",
+    "Name": "Standard_F32als_v6"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_F32ams_v6"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_F32as_v6"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "64",
+    "Name": "Standard_F32s_v2"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "16",
+    "MemoryGB": "8",
+    "Name": "Standard_F4"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "96",
+    "Name": "Standard_F48als_v6"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "384",
+    "Name": "Standard_F48ams_v6"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "192",
+    "Name": "Standard_F48as_v6"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "96",
+    "Name": "Standard_F48s_v2"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "8",
+    "Name": "Standard_F4als_v6"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "32",
+    "Name": "Standard_F4ams_v6"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "16",
+    "Name": "Standard_F4as_v6"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "16",
+    "MemoryGB": "8",
+    "Name": "Standard_F4s"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "8",
+    "Name": "Standard_F4s_v2"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_F64als_v6"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "512",
+    "Name": "Standard_F64ams_v6"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_F64as_v6"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_F64s_v2"
+  },
+  {
+    "Cores": "72",
+    "MaxDataDisks": "32",
+    "MemoryGB": "144",
+    "Name": "Standard_F72s_v2"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "32",
+    "MemoryGB": "16",
+    "Name": "Standard_F8"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "16",
+    "Name": "Standard_F8als_v6"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "64",
+    "Name": "Standard_F8ams_v6"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "32",
+    "Name": "Standard_F8as_v6"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "32",
+    "MemoryGB": "16",
+    "Name": "Standard_F8s"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "16",
+    "Name": "Standard_F8s_v2"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "8",
+    "MemoryGB": "28",
+    "Name": "Standard_G1"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "16",
+    "MemoryGB": "56",
+    "Name": "Standard_G2"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "32",
+    "MemoryGB": "112",
+    "Name": "Standard_G3"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "64",
+    "MemoryGB": "224",
+    "Name": "Standard_G4"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "64",
+    "MemoryGB": "448",
+    "Name": "Standard_G5"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "8",
+    "MemoryGB": "28",
+    "Name": "Standard_GS1"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "16",
+    "MemoryGB": "56",
+    "Name": "Standard_GS2"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "32",
+    "MemoryGB": "112",
+    "Name": "Standard_GS3"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "64",
+    "MemoryGB": "224",
+    "Name": "Standard_GS4"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "64",
+    "MemoryGB": "224",
+    "Name": "Standard_GS4-4"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "64",
+    "MemoryGB": "224",
+    "Name": "Standard_GS4-8"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "64",
+    "MemoryGB": "448",
+    "Name": "Standard_GS5"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "64",
+    "MemoryGB": "448",
+    "Name": "Standard_GS5-16"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "64",
+    "MemoryGB": "448",
+    "Name": "Standard_GS5-8"
+  },
+  {
+    "Cores": "12",
+    "MaxDataDisks": "16",
+    "MemoryGB": "96",
+    "Name": "Standard_L12aos_v4"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_L16aos_v4"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_L16as_v3"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_L16as_v4"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "64",
+    "MemoryGB": "128",
+    "Name": "Standard_L16s"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "128",
+    "Name": "Standard_L16s_v3"
+  },
+  {
+    "Cores": "24",
+    "MaxDataDisks": "32",
+    "MemoryGB": "192",
+    "Name": "Standard_L24aos_v4"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "16",
+    "Name": "Standard_L2aos_v4"
+  },
+  {
+    "Cores": "2",
+    "MaxDataDisks": "4",
+    "MemoryGB": "16",
+    "Name": "Standard_L2as_v4"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_L32aos_v4"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_L32as_v3"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_L32as_v4"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "64",
+    "MemoryGB": "256",
+    "Name": "Standard_L32s"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_L32s_v3"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "384",
+    "Name": "Standard_L48as_v3"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "384",
+    "Name": "Standard_L48as_v4"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "32",
+    "MemoryGB": "384",
+    "Name": "Standard_L48s_v3"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "32",
+    "Name": "Standard_L4aos_v4"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "32",
+    "Name": "Standard_L4as_v4"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "16",
+    "MemoryGB": "32",
+    "Name": "Standard_L4s"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "512",
+    "Name": "Standard_L64as_v3"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "512",
+    "Name": "Standard_L64as_v4"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "512",
+    "Name": "Standard_L64s_v3"
+  },
+  {
+    "Cores": "80",
+    "MaxDataDisks": "32",
+    "MemoryGB": "640",
+    "Name": "Standard_L80as_v3"
+  },
+  {
+    "Cores": "80",
+    "MaxDataDisks": "32",
+    "MemoryGB": "640",
+    "Name": "Standard_L80as_v4"
+  },
+  {
+    "Cores": "80",
+    "MaxDataDisks": "32",
+    "MemoryGB": "640",
+    "Name": "Standard_L80s_v3"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "64",
+    "Name": "Standard_L8aos_v4"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "64",
+    "Name": "Standard_L8as_v3"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "64",
+    "Name": "Standard_L8as_v4"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "32",
+    "MemoryGB": "64",
+    "Name": "Standard_L8s"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "64",
+    "Name": "Standard_L8s_v3"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "32",
+    "MemoryGB": "768",
+    "Name": "Standard_L96as_v4"
+  },
+  {
+    "Cores": "128",
+    "MaxDataDisks": "64",
+    "MemoryGB": "2048",
+    "Name": "Standard_M128"
+  },
+  {
+    "Cores": "128",
+    "MaxDataDisks": "64",
+    "MemoryGB": "3892",
+    "Name": "Standard_M128-32ms"
+  },
+  {
+    "Cores": "128",
+    "MaxDataDisks": "64",
+    "MemoryGB": "2794",
+    "Name": "Standard_M128-64bds_3_v3"
+  },
+  {
+    "Cores": "128",
+    "MaxDataDisks": "64",
+    "MemoryGB": "1024",
+    "Name": "Standard_M128-64bds_v3"
+  },
+  {
+    "Cores": "128",
+    "MaxDataDisks": "64",
+    "MemoryGB": "1024",
+    "Name": "Standard_M128-64bs_v3"
+  },
+  {
+    "Cores": "128",
+    "MaxDataDisks": "64",
+    "MemoryGB": "3892",
+    "Name": "Standard_M128-64ms"
+  },
+  {
+    "Cores": "128",
+    "MaxDataDisks": "64",
+    "MemoryGB": "2794",
+    "Name": "Standard_M128bds_3_v3"
+  },
+  {
+    "Cores": "128",
+    "MaxDataDisks": "64",
+    "MemoryGB": "1024",
+    "Name": "Standard_M128bds_v3"
+  },
+  {
+    "Cores": "128",
+    "MaxDataDisks": "64",
+    "MemoryGB": "1024",
+    "Name": "Standard_M128bs_v3"
+  },
+  {
+    "Cores": "128",
+    "MaxDataDisks": "64",
+    "MemoryGB": "3892",
+    "Name": "Standard_M128dms_v2"
+  },
+  {
+    "Cores": "128",
+    "MaxDataDisks": "64",
+    "MemoryGB": "2048",
+    "Name": "Standard_M128ds_v2"
+  },
+  {
+    "Cores": "128",
+    "MaxDataDisks": "64",
+    "MemoryGB": "3892",
+    "Name": "Standard_M128m"
+  },
+  {
+    "Cores": "128",
+    "MaxDataDisks": "64",
+    "MemoryGB": "3892",
+    "Name": "Standard_M128ms"
+  },
+  {
+    "Cores": "128",
+    "MaxDataDisks": "64",
+    "MemoryGB": "3892",
+    "Name": "Standard_M128ms_v2"
+  },
+  {
+    "Cores": "128",
+    "MaxDataDisks": "64",
+    "MemoryGB": "2048",
+    "Name": "Standard_M128s"
+  },
+  {
+    "Cores": "128",
+    "MaxDataDisks": "64",
+    "MemoryGB": "2048",
+    "Name": "Standard_M128s_v2"
+  },
+  {
+    "Cores": "12",
+    "MaxDataDisks": "64",
+    "MemoryGB": "240",
+    "Name": "Standard_M12ds_v3"
+  },
+  {
+    "Cores": "12",
+    "MaxDataDisks": "64",
+    "MemoryGB": "240",
+    "Name": "Standard_M12s_v3"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "16",
+    "MemoryGB": "437.5",
+    "Name": "Standard_M16-4ms"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "16",
+    "MemoryGB": "437.5",
+    "Name": "Standard_M16-8ms"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "64",
+    "MemoryGB": "128",
+    "Name": "Standard_M16bds_v3"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "64",
+    "MemoryGB": "128",
+    "Name": "Standard_M16bs_v3"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "16",
+    "MemoryGB": "437.5",
+    "Name": "Standard_M16ms"
+  },
+  {
+    "Cores": "176",
+    "MaxDataDisks": "64",
+    "MemoryGB": "3892",
+    "Name": "Standard_M176-88bds_4_v3"
+  },
+  {
+    "Cores": "176",
+    "MaxDataDisks": "64",
+    "MemoryGB": "1536",
+    "Name": "Standard_M176-88bds_v3"
+  },
+  {
+    "Cores": "176",
+    "MaxDataDisks": "64",
+    "MemoryGB": "1536",
+    "Name": "Standard_M176-88bs_v3"
+  },
+  {
+    "Cores": "176",
+    "MaxDataDisks": "64",
+    "MemoryGB": "3892",
+    "Name": "Standard_M176bds_4_v3"
+  },
+  {
+    "Cores": "176",
+    "MaxDataDisks": "64",
+    "MemoryGB": "1536",
+    "Name": "Standard_M176bds_v3"
+  },
+  {
+    "Cores": "176",
+    "MaxDataDisks": "64",
+    "MemoryGB": "1536",
+    "Name": "Standard_M176bs_v3"
+  },
+  {
+    "Cores": "176",
+    "MaxDataDisks": "64",
+    "MemoryGB": "2794",
+    "Name": "Standard_M176ds_3_v3"
+  },
+  {
+    "Cores": "176",
+    "MaxDataDisks": "64",
+    "MemoryGB": "3892",
+    "Name": "Standard_M176ds_4_v3"
+  },
+  {
+    "Cores": "176",
+    "MaxDataDisks": "64",
+    "MemoryGB": "2794",
+    "Name": "Standard_M176s_3_v3"
+  },
+  {
+    "Cores": "176",
+    "MaxDataDisks": "64",
+    "MemoryGB": "3892",
+    "Name": "Standard_M176s_4_v3"
+  },
+  {
+    "Cores": "192",
+    "MaxDataDisks": "64",
+    "MemoryGB": "4096",
+    "Name": "Standard_M192idms_v2"
+  },
+  {
+    "Cores": "192",
+    "MaxDataDisks": "64",
+    "MemoryGB": "2048",
+    "Name": "Standard_M192ids_v2"
+  },
+  {
+    "Cores": "192",
+    "MaxDataDisks": "64",
+    "MemoryGB": "4096",
+    "Name": "Standard_M192ims_v2"
+  },
+  {
+    "Cores": "192",
+    "MaxDataDisks": "64",
+    "MemoryGB": "2048",
+    "Name": "Standard_M192is_v2"
+  },
+  {
+    "Cores": "208",
+    "MaxDataDisks": "64",
+    "MemoryGB": "5700",
+    "Name": "Standard_M208ms_v2"
+  },
+  {
+    "Cores": "208",
+    "MaxDataDisks": "64",
+    "MemoryGB": "2850",
+    "Name": "Standard_M208s_v2"
+  },
+  {
+    "Cores": "24",
+    "MaxDataDisks": "64",
+    "MemoryGB": "480",
+    "Name": "Standard_M24ds_v3"
+  },
+  {
+    "Cores": "24",
+    "MaxDataDisks": "64",
+    "MemoryGB": "480",
+    "Name": "Standard_M24s_v3"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "875",
+    "Name": "Standard_M32-16ms"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "875",
+    "Name": "Standard_M32-8ms"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "64",
+    "MemoryGB": "256",
+    "Name": "Standard_M32bds_v3"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "64",
+    "MemoryGB": "256",
+    "Name": "Standard_M32bs_v3"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "875",
+    "Name": "Standard_M32dms_v2"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "256",
+    "Name": "Standard_M32ls"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "875",
+    "Name": "Standard_M32ms"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "875",
+    "Name": "Standard_M32ms_v2"
+  },
+  {
+    "Cores": "32",
+    "MaxDataDisks": "32",
+    "MemoryGB": "192",
+    "Name": "Standard_M32ts"
+  },
+  {
+    "Cores": "416",
+    "MaxDataDisks": "64",
+    "MemoryGB": "11400",
+    "Name": "Standard_M416-208ms_v2"
+  },
+  {
+    "Cores": "416",
+    "MaxDataDisks": "64",
+    "MemoryGB": "5700",
+    "Name": "Standard_M416-208s_v2"
+  },
+  {
+    "Cores": "416",
+    "MaxDataDisks": "64",
+    "MemoryGB": "11400",
+    "Name": "Standard_M416ms_v2"
+  },
+  {
+    "Cores": "416",
+    "MaxDataDisks": "64",
+    "MemoryGB": "9496",
+    "Name": "Standard_M416s_10_v2"
+  },
+  {
+    "Cores": "416",
+    "MaxDataDisks": "64",
+    "MemoryGB": "7600",
+    "Name": "Standard_M416s_8_v2"
+  },
+  {
+    "Cores": "416",
+    "MaxDataDisks": "64",
+    "MemoryGB": "8568",
+    "Name": "Standard_M416s_9_v2"
+  },
+  {
+    "Cores": "416",
+    "MaxDataDisks": "64",
+    "MemoryGB": "5700",
+    "Name": "Standard_M416s_v2"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "64",
+    "MemoryGB": "384",
+    "Name": "Standard_M48bds_v3"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "64",
+    "MemoryGB": "384",
+    "Name": "Standard_M48bs_v3"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "64",
+    "MemoryGB": "974",
+    "Name": "Standard_M48ds_1_v3"
+  },
+  {
+    "Cores": "48",
+    "MaxDataDisks": "64",
+    "MemoryGB": "974",
+    "Name": "Standard_M48s_1_v3"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "64",
+    "MemoryGB": "1024",
+    "Name": "Standard_M64"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "64",
+    "MemoryGB": "1792",
+    "Name": "Standard_M64-16ms"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "64",
+    "MemoryGB": "1397",
+    "Name": "Standard_M64-32bds_1_v3"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "64",
+    "MemoryGB": "1792",
+    "Name": "Standard_M64-32ms"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "64",
+    "MemoryGB": "1397",
+    "Name": "Standard_M64bds_1_v3"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "64",
+    "MemoryGB": "512",
+    "Name": "Standard_M64bds_v3"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "64",
+    "MemoryGB": "512",
+    "Name": "Standard_M64bs_v3"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "64",
+    "MemoryGB": "1792",
+    "Name": "Standard_M64dms_v2"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "64",
+    "MemoryGB": "1024",
+    "Name": "Standard_M64ds_v2"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "64",
+    "MemoryGB": "512",
+    "Name": "Standard_M64ls"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "64",
+    "MemoryGB": "1792",
+    "Name": "Standard_M64m"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "64",
+    "MemoryGB": "1792",
+    "Name": "Standard_M64ms"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "64",
+    "MemoryGB": "1792",
+    "Name": "Standard_M64ms_v2"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "64",
+    "MemoryGB": "1024",
+    "Name": "Standard_M64s"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "64",
+    "MemoryGB": "1024",
+    "Name": "Standard_M64s_v2"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "8",
+    "MemoryGB": "218.75",
+    "Name": "Standard_M8-2ms"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "8",
+    "MemoryGB": "218.75",
+    "Name": "Standard_M8-4ms"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "8",
+    "MemoryGB": "218.75",
+    "Name": "Standard_M8ms"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "64",
+    "MemoryGB": "1946",
+    "Name": "Standard_M96-48bds_2_v3"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "64",
+    "MemoryGB": "1946",
+    "Name": "Standard_M96bds_2_v3"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "64",
+    "MemoryGB": "768",
+    "Name": "Standard_M96bds_v3"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "64",
+    "MemoryGB": "768",
+    "Name": "Standard_M96bs_v3"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "64",
+    "MemoryGB": "974",
+    "Name": "Standard_M96ds_1_v3"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "64",
+    "MemoryGB": "1946",
+    "Name": "Standard_M96ds_2_v3"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "64",
+    "MemoryGB": "974",
+    "Name": "Standard_M96s_1_v3"
+  },
+  {
+    "Cores": "96",
+    "MaxDataDisks": "64",
+    "MemoryGB": "1946",
+    "Name": "Standard_M96s_2_v3"
+  },
+  {
+    "Cores": "12",
+    "MaxDataDisks": "24",
+    "MemoryGB": "224",
+    "Name": "Standard_NC12s_v3"
+  },
+  {
+    "Cores": "16",
+    "MaxDataDisks": "32",
+    "MemoryGB": "110",
+    "Name": "Standard_NC16as_T4_v3"
+  },
+  {
+    "Cores": "24",
+    "MaxDataDisks": "32",
+    "MemoryGB": "448",
+    "Name": "Standard_NC24rs_v3"
+  },
+  {
+    "Cores": "24",
+    "MaxDataDisks": "32",
+    "MemoryGB": "448",
+    "Name": "Standard_NC24s_v3"
+  },
+  {
+    "Cores": "4",
+    "MaxDataDisks": "8",
+    "MemoryGB": "28",
+    "Name": "Standard_NC4as_T4_v3"
+  },
+  {
+    "Cores": "64",
+    "MaxDataDisks": "32",
+    "MemoryGB": "440",
+    "Name": "Standard_NC64as_T4_v3"
+  },
+  {
+    "Cores": "6",
+    "MaxDataDisks": "12",
+    "MemoryGB": "112",
+    "Name": "Standard_NC6s_v3"
+  },
+  {
+    "Cores": "8",
+    "MaxDataDisks": "16",
+    "MemoryGB": "56",
+    "Name": "Standard_NC8as_T4_v3"
+  },
+  {
+    "Cores": "12",
+    "MaxDataDisks": "8",
+    "MemoryGB": "110",
+    "Name": "Standard_NV12ads_A10_v5"
+  },
+  {
+    "Cores": "18",
+    "MaxDataDisks": "16",
+    "MemoryGB": "220",
+    "Name": "Standard_NV18ads_A10_v5"
+  },
+  {
+    "Cores": "36",
+    "MaxDataDisks": "32",
+    "MemoryGB": "880",
+    "Name": "Standard_NV36adms_A10_v5"
+  },
+  {
+    "Cores": "36",
+    "MaxDataDisks": "32",
+    "MemoryGB": "440",
+    "Name": "Standard_NV36ads_A10_v5"
+  },
+  {
+    "Cores": "6",
+    "MaxDataDisks": "4",
+    "MemoryGB": "55",
+    "Name": "Standard_NV6ads_A10_v5"
+  },
+  {
+    "Cores": "72",
+    "MaxDataDisks": "32",
+    "MemoryGB": "880",
+    "Name": "Standard_NV72ads_A10_v5"
+  }
+]
